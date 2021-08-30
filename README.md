@@ -10,5 +10,5 @@ Repositorio de la materia Arquitectura de software
 - Daniel Medina  
 <img src="https://github.com/MoisesVinajera/Arquitectura/blob/main/imagenes/%C3%ADndice.jpg" width="200">  
 - Moisés Vinajera  
-<img src="https://github.com/MoisesVinajera/Arquitectura/blob/main/imagenes/Moises.png" width="200">  
+<img src="https://github.com/MoisesVinajera/Arquitectura/blob/main/imagenes/moisesvinajera.jpg" width="200">  
 
