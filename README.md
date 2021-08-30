@@ -3,12 +3,12 @@ Repositorio de la materia Arquitectura de software
 
 ## Integrantes
 
-* Irving Báez
+- Irving Báez
 <img src="https://github.com/MoisesVinajera/Arquitectura/blob/main/imagenes/Irving.jpg" width="200">
-* Gerardo Caamal
+- Gerardo Caamal
 <img src="https://github.com/MoisesVinajera/Arquitectura/blob/main/imagenes/Caamal.jpeg" width="200">
-* Daniel Medina
+- Daniel Medina
 <img src="https://github.com/MoisesVinajera/Arquitectura/blob/main/imagenes/%C3%ADndice.jpg" width="200">
-* Moisés Vinajera
+- Moisés Vinajera
 <img src="https://github.com/MoisesVinajera/Arquitectura/blob/main/imagenes/Moises.png" width="200">
 
