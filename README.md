@@ -6,7 +6,8 @@ Repositorio de la materia Arquitectura de software
 * Irving Báez
 <img src="https://github.com/MoisesVinajera/Arquitectura/blob/main/imagenes/Irving.jpg" width="200">
 * Gerardo Caamal
-![Caamal](https://github.com/MoisesVinajera/Arquitectura/blob/main/imagenes/Caamal.jpeg)
+<img src="https://github.com/MoisesVinajera/Arquitectura/blob/main/imagenes/Caamal.jpeg" width="200">
 * Daniel Medina
 * Moisés Vinajera
-![Moisés](https://github.com/MoisesVinajera/Arquitectura/blob/main/imagenes/Moises.png)
+<img src="https://github.com/MoisesVinajera/Arquitectura/blob/main/imagenes/Moises.png" width="200">
+
