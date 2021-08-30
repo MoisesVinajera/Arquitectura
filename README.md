@@ -8,6 +8,7 @@ Repositorio de la materia Arquitectura de software
 * Gerardo Caamal
 <img src="https://github.com/MoisesVinajera/Arquitectura/blob/main/imagenes/Caamal.jpeg" width="200">
 * Daniel Medina
+
 * Moisés Vinajera
 <img src="https://github.com/MoisesVinajera/Arquitectura/blob/main/imagenes/Moises.png" width="200">
 
