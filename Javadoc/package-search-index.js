@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.example.SpringProfessional"},{"l":"com.example.SpringProfessional.student"},{"l":"com.example.SpringProfessional.student.exceptions"}];updateSearchResults();
